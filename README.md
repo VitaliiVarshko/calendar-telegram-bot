@@ -9,22 +9,10 @@ A lightweight Python bot that fetches today's events from Google Calendar and se
 - ⏰ **Automatic daily execution** via scheduler/cron
 - 📦 **Self-contained** - no database required
 
-## 🏗️ Project Structure
-Calendar/
-├── app/
-│ ├── core/
-│ │ └── config.py # Configuration & logging setup
-│ └── services/
-│ ├── calendar_service.py # Google Calendar API client
-│ └── telegram_service.py # Telegram Bot API client
-├── .venv/ # Virtual environment
-├── .env # Environment variables (tokens, IDs)
-├── credentials.json # Google service account key
-├── main.py # Entry point
-├── run.py # Wrapper for scheduler
-├── requirements.txt # Python dependencies
-└── README.md
 
+## Screenshots
+
+![Main page](screenshots/main-page.png)
 
 ## 🚀 Quick Start
 
