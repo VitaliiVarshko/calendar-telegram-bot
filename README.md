@@ -96,9 +96,9 @@ Add the service account email (found in credentials.json)
 
 Set permission: "See all event details"
 
-📄 License
+### 📄 License
 MIT License - feel free to use and modify
 
-🤝 Contributing
+### 🤝 Contributing
 Feel free to submit issues and enhancement requests!
 
