@@ -38,10 +38,10 @@ A lightweight Python bot that fetches today's events from Google Calendar and se
 
 Create .env file in the project root:
 
-GOOGLE_CALENDAR_ID=your-calendar@group.calendar.google.com
-GOOGLE_CREDENTIALS_FILE=credentials.json
-TELEGRAM_BOT_TOKEN=1234567890:ABCdefGHIjklMNOpqrsTUVwxyz
-TELEGRAM_CHAT_ID=123456789
+- GOOGLE_CALENDAR_ID=your-calendar@group.calendar.google.com
+- GOOGLE_CREDENTIALS_FILE=credentials.json
+- TELEGRAM_BOT_TOKEN=1234567890:ABCdefGHIjklMNOpqrsTUVwxyz
+- TELEGRAM_CHAT_ID=123456789
 
 
 ### Add Google credentials
